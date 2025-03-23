@@ -35,7 +35,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Running the program
 1. Clone the repository:
 ```bash
-git clone <>
+git clone https://github.com/TheBlogorithm/learn-rust.git
 ```
 
 2. In Debug mode:
